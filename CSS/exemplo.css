@@ -1,0 +1,531 @@
+@import url('https://fonts.googleapis.com/css2?family=Cutive+Mono&family=Montserrat:wght@200&family=Nunito+Sans:wght@200&display=swap');
+.body{
+    background-color: rgb(198, 198, 198);
+    margin: 0px;
+    padding: 0px;
+}
+.Principal{
+    width: 360px;
+    height: 740px;
+    margin: auto;
+    background: rgb(9,132,164);
+background: linear-gradient(0deg, rgba(9,132,164,1) 100%, rgba(196,22,22,1) 100%);
+border: solid 1px;
+margin-top: 30px;
+}
+.navegacao{
+    width: 360px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+.botao{
+    color: black;
+    font-family: 'Cutive Mono' monospace;
+    margin-left: 30px;
+    font-size: 20px;
+    text-decoration: none;
+}
+.botao:hover{
+    color: sienna;
+    font-weight: bold;
+}
+.texto001{
+    width: 70%;
+    height: 200px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Cutive Mono' monospace;
+    text-align: center;
+    font-size: 30px;
+}
+.area001{
+    width: 90%;
+    height: 460px;
+    background-color: rgb(0, 0, 0);
+    box-shadow: 3px 6px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 3px 6px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 3px 6px 5px 0px rgba(0,0,0,0.75);
+    margin: auto;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+.area002{
+    width: 85%;
+    height: 300px;
+    margin: auto;
+    background-color:aliceblue;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    background-image: url(/Imagens/spider\ man.PNG);
+    background-size: cover;
+}
+.texto002{
+    width: 70%;
+    height: 200px;
+    margin: auto;
+    margin-top: 20px;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+.Principal002{
+    width: 360px;
+    height: 1480px;
+    margin: auto;
+    background-color: black;
+
+border: solid 1px;
+margin-top: 50px;
+}
+.exemplo01{
+    width: 360px;
+    height: 1100px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+.exemplo02{
+    width: 280px;
+    height: 320px;
+    border-radius: 20px;
+    background-image: url(/Imagens/breakingbad\ 03\ figma.png) ;
+    box-shadow: 16px 10px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 16px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 16px 10px 5px 0px rgba(0,0,0,0.75);
+    border: solid 1px;
+    border-color: aliceblue;
+    
+}
+.exemplo03{
+    width: 280px;
+    height: 320px;
+    border-radius: 20px;
+    background-image: url(/Imagens/Rectangle\ 9.png);
+    box-shadow: 16px 10px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 16px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 16px 10px 5px 0px rgba(0,0,0,0.75);
+    border: solid 1px;
+    border-color: aliceblue;
+}
+.exemplo04{
+    width: 280px;
+    height: 320px;
+    border-radius: 20px;
+    background-image: url(/Imagens/Rectangle\ 9\ \(1\).png);
+    box-shadow: 16px 10px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 16px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 16px 10px 5px 0px rgba(0,0,0,0.75);
+    border: solid 1px;
+    border-color: aliceblue;
+}
+.texto1{
+    font-size: 20px;
+    color: aliceblue;
+    font-family: monospace;
+    text-align: center;
+    margin-top: 25px;
+}
+.exemplo05{
+    width: 350px;
+    height: 90px;
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 50px;
+
+}
+.exemplo06{
+    width: 90px;
+    height: 90px;
+    border-radius: 50px;
+    background-image: url(/Imagens/13.png);
+    background-size: cover;
+    border: solid 2px;
+}
+.exemplo07{
+    width: 90px;
+    height: 90px;
+    border-radius: 50px;
+    background-image: url(/Imagens/jonny.PNG);
+    background-size: cover;
+    border: solid 2px;
+}
+.exemplo08{
+    width: 90px;
+    height: 90px;
+    border-radius: 50px;
+    background-image: url(/Imagens/vi.PNG);
+    background-size: cover;
+    border: solid 2px;
+}
+.Principal003{
+    width: 360px;
+    height: 1400px;
+    margin: auto;
+    background: rgb(9,132,164);
+background: linear-gradient(0deg, rgba(9,132,164,1) 100%, rgba(196,22,22,1) 100%);
+   margin-top: 50px;
+   border: solid 2px;
+   display: flex;
+   flex-wrap: wrap;
+}
+.parte01{
+    width: 330px;
+    height: 360px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 20px;
+    box-shadow: 3px 6px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 3px 6px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 3px 6px 5px 0px rgba(0,0,0,0.75);
+}
+.parte02{
+    width: 250px;
+    height: 260px;
+    border-radius: 20px;
+   margin-top: 50px;
+   margin-left: 40px;
+   border: solid 1px;
+   background-image: url(/Imagens/hxh.PNG);
+    border-color: aliceblue;
+   background-size: cover;
+   
+}
+.parte03{
+    font-size: 20px;
+
+   
+    text-align: center;
+    margin-top: 50px;
+    color: aliceblue;
+    font-family:monospace;
+}
+.parte04{
+    width: 300px;
+    height: 390px;
+    background-color: aliceblue;
+    border: solid 1px;
+    border-radius: 20px;
+    margin-left: 30px;
+    margin-top: 90px;
+    background-image: url(/Imagens/naruto\ 02.PNG);
+    border: solid 1px;
+    border-color: aliceblue;
+    background-size: cover;  
+    box-shadow: 16px 10px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 16px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 16px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.parte05{
+   width: 360px;
+   height: 60px;
+   margin-top: 375px;
+   display: flex;
+}
+.parte06{
+    width: 333.3px;
+    height: 60px;
+    background-color:rgb(20, 20, 117);
+}
+.parte07{
+    width: 333.3px;
+    height: 60px;
+    background-color: rgb(0, 0, 0);
+}
+.parte08{
+    width: 333.3px;
+    height: 60px;
+    background-color:rgb(20, 20, 117);
+}
+
+/* X-Larger (Aplicacao para desktops, 1200px and up)*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(min-width: 1200px) {
+    .Principal{
+        width: 1000px;
+        height: 700px;
+    }
+    .navegacao{
+        width: 100%;
+    }
+    .testo001{
+        height: 250px;
+    }
+    .area001{
+        width: 900px;
+        height: 300px;
+        flex-direction: row;
+        box-shadow: 3px 6px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 3px 6px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 3px 6px 5px 0px rgba(0,0,0,0.75);
+    }
+    .area002{
+        width: 40%;
+        height: 260px;
+    }
+    .texto002{
+        width: 40%;
+        height: 260px;
+    }
+
+    .Principal002{
+        width: 1000px;
+        height: 800px;
+        margin: auto;
+        background-color: black;
+border: solid 1px;
+margin-top: 30px;
+
+    }
+    .exemplo01{
+        width: 1000px;
+        height: 380px;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        
+    }
+    .exemplo02{
+        width: 280px;
+        height: 320px;
+        border-radius: 20px;
+        background-image: url(/Imagens/breakingbad\ 03\ figma.png) ;
+        border: solid 1px;
+        border-color: aliceblue;
+        box-shadow: 16px 10px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 16px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 16px 10px 5px 0px rgba(0,0,0,0.75);
+    }
+    .exemplo03{
+        width: 280px;
+        height: 320px;
+        border-radius: 20px;
+        background-image: url(/Imagens/Rectangle\ 9.png);
+        border: solid 1px;
+        border-color: aliceblue;
+        box-shadow: 16px 10px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 16px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 16px 10px 5px 0px rgba(0,0,0,0.75);
+    }
+    .exemplo04{
+        width: 280px;
+        height: 320px;
+        border-radius: 20px;
+        background-image: url(/Imagens/Rectangle\ 9\ \(1\).png);
+        border: solid 1px;
+        border-color: aliceblue;
+        box-shadow: 16px 10px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 16px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 16px 10px 5px 0px rgba(0,0,0,0.75);
+    }
+    .texto1{
+        margin-left: 550px;
+        font-size: 35px;
+        text-align: right;
+        margin-right: 20px;
+        color: aliceblue;
+        font-family: monospace;
+    }
+    .exemplo05{
+        width: 350px;
+        height: 90px;
+        margin-left: 25px;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        margin-top: 76px;
+    }
+    .exemplo06{
+        width: 100px;
+        height: 100px;
+        border-radius: 50px;
+        background-image: url(/Imagens/13.png);
+        background-size: cover;
+        border: solid 2px;
+        
+    }
+    .exemplo07{
+        width: 100px;
+        height: 100px;
+        border-radius: 50px;
+        background-image: url(/Imagens/jonny.PNG);
+        background-size: cover;
+        border: solid 2px;
+    }
+    .exemplo08{
+        width: 100px;
+        height: 100px;
+        border-radius: 50px;
+        background-image: url(/Imagens/vi.PNG);
+        background-size: cover;
+        border: solid 2px;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    .Principal003{
+        width: 1000px;
+        height: 950px;
+        margin: auto;
+        background: rgb(9,132,164);
+background: linear-gradient(0deg, rgba(9,132,164,1) 100%, rgba(196,22,22,1) 100%);
+       display: flex;
+       flex-wrap: wrap;
+       border: solid 1px;
+       margin-top: 30px;
+    }
+    .parte01{
+        width: 900px;
+        height: 360px;
+        background-color: rgb(0, 0, 0);
+        border-radius: 20px;
+        margin: auto;
+        display: flex;
+        margin-top: 30px;
+    }
+    .parte02{
+        width: 250px;
+        height: 260px;
+    
+        border-radius: 20px;
+       margin-top: 50px;
+       margin-left: 40px;
+       border: solid 1px;
+       background-image: url(/Imagens/hxh.PNG);
+       border: solid 2px;
+        border-color: aliceblue;
+       background-size: cover;
+    }
+    .parte03{
+        font-size: 40px;
+        text-align: left;
+        width: 450px;
+        height: 400px;
+        margin-left: 50px;
+        margin-top: 50px;
+        color: aliceblue;
+        font-family:monospace;
+    }
+    .parte04{
+        width: 350px;
+        height: 390px;
+        background-color: aliceblue;
+        border: solid 1px;
+        border-radius: 20px;
+        margin-top: 55px;
+        margin-left: 90px;
+        border-color: aliceblue;
+        background-size: cover;  
+    }
+    .parte05{
+       width: 1000px;
+       height: 60px;
+       background-color: blueviolet;
+       margin-top: 16px;
+       display: flex;
+      
+    }
+    .parte06{
+        width: 333.3px;
+        height: 60px;
+        background-color:rgb(20, 20, 117);
+    }
+    .parte07{
+        width: 333.3px;
+        height: 60px;
+        background-color: rgb(0, 0, 0);
+    }
+    .parte08{
+        width: 333.3px;
+        height: 60px;
+        background-color:rgb(20, 20, 117);
+    }
+}
+
+
